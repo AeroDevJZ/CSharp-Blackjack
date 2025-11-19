@@ -1,0 +1,29 @@
+C:\Users\Jonathan\source\repos\Blackjack AI\bin\Debug\net6.0\Blackjack AI.exe
+C:\Users\Jonathan\source\repos\Blackjack AI\bin\Debug\net6.0\Blackjack AI.deps.json
+C:\Users\Jonathan\source\repos\Blackjack AI\bin\Debug\net6.0\Blackjack AI.runtimeconfig.json
+C:\Users\Jonathan\source\repos\Blackjack AI\bin\Debug\net6.0\Blackjack AI.dll
+C:\Users\Jonathan\source\repos\Blackjack AI\bin\Debug\net6.0\Blackjack AI.pdb
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\Blackjack AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\Blackjack AI.AssemblyInfoInputs.cache
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\Blackjack AI.AssemblyInfo.cs
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\Blackjack AI.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\Blackjack AI.dll
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\refint\Blackjack AI.dll
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\Blackjack AI.pdb
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\Blackjack AI.genruntimeconfig.cache
+C:\Users\Jonathan\source\repos\Blackjack AI\obj\Debug\net6.0\ref\Blackjack AI.dll
+D:\Visual Code Projects\New folder\Blackjack AI\bin\Debug\net6.0\Blackjack AI.exe
+D:\Visual Code Projects\New folder\Blackjack AI\bin\Debug\net6.0\Blackjack AI.deps.json
+D:\Visual Code Projects\New folder\Blackjack AI\bin\Debug\net6.0\Blackjack AI.runtimeconfig.json
+D:\Visual Code Projects\New folder\Blackjack AI\bin\Debug\net6.0\Blackjack AI.dll
+D:\Visual Code Projects\New folder\Blackjack AI\bin\Debug\net6.0\Blackjack AI.pdb
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.AssemblyInfoInputs.cache
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.AssemblyInfo.cs
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.csproj.CoreCompileInputs.cache
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.sourcelink.json
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.dll
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\refint\Blackjack AI.dll
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.pdb
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\Blackjack AI.genruntimeconfig.cache
+D:\Visual Code Projects\New folder\Blackjack AI\obj\Debug\net6.0\ref\Blackjack AI.dll
